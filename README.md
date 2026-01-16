@@ -1,4 +1,4 @@
-# iam-identity-lab
+# Enterprise Identity & Access Management (IAM) Lab
 Azure Entra ID + SSO + MFA + SCIM + LDAP hands-on IAM portfolio project
 
 # End-to-End Identity Platform: Azure Entra ID + SSO + MFA + SCIM + LDAP
